@@ -1,6 +1,6 @@
 # ExpNo 1: Developing AI Agent with PEAS Description
-#### Name: Abishek Xavier A
-#### Register Number: 212222230004
+#### Name: Saravanan N
+#### Register Number/Staff Id: TSML006
 ### AIM:
 To find the PEAS description for the given AI problem and develop an AI agent
 
@@ -42,8 +42,8 @@ The Vacuum Cleaner Agent is a Python class that simulates the behavior of a basi
 ### PROGRAM:
 ```py
 Developing AI Agent with PEAS Description
-Developed by: Manoj kumar G
-RegisterNumber: 212222230078
+Developed by: Abishek Xavier A
+RegisterNumber: 212222230004
 
 class VacuumCleanerAgent:
     def __init__(self):
