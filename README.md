@@ -1,6 +1,6 @@
 # ExpNo 1: Developing AI Agent with PEAS Description
-#### Name: Saravanan N
-#### Register Number/Staff Id: TSML006
+#### Name: Abishek Xavier A
+#### Register Number: 212222230004
 ### AIM:
 To find the PEAS description for the given AI problem and develop an AI agent
 
